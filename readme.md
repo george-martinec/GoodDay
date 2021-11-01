@@ -6,6 +6,8 @@
   <a target="_blank" href="https://www.goodday.work/developers/api-v2"><img src="https://img.shields.io/badge/Version-2.0.15-04BF50?style=for-the-badge" alt="GoodDay"></a>
   <a><img style="width: 6px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-^7.0-6c8aa2?style=for-the-badge" alt="PHP"></a>
+  <a><img style="width: 6px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="></a>
+  <a target="_blank" href="https://nrobinson2000.github.io/donate-bitcoin/?amount=5&currency=EUR&name=George-Martinec&link=true&mbits=false&address=14BGV3SdgmPqxwNufG54sV6uMH65EdgcyE"><img src="https://img.shields.io/badge/Donate-Bitcoin-f2a900?style=for-the-badge" alt="Bitcoin"></a>
   <br><br>
 </p>
 
