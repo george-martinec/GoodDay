@@ -15,8 +15,8 @@
 <div align="center">🧙‍♂️ You can Generate API Token in your Organization under <code>Settings > API</code></div>
 <br>
 
-<div align="center">Created with: <a href="https://github.com/Kong/unirest-php">Unirest for <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="
-  " width="42"/></a> </div>
+<b><div align="center">Created with: <a href="https://github.com/Kong/unirest-php">Unirest for <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="
+  " width="42"/></a> </div></b>
 
 <br>
 
