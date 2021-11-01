@@ -40,7 +40,10 @@ $GoodDay = new GoodDay('YOUR_API_TOKEN');
 <br>
 
 ### Could be usefull:
- - <a target="_blank" href="https://www.php.net/manual/en/datetime.format.php"><b>(Y-m-d)</b> - DateTime::format</a>
+ - <a target="_blank" href="https://www.php.net/manual/en/datetime.format.php">PHP - DateTime::format - (Y-m-d)</a>
+ - <a target="_blank" href="https://www.php.net/manual/en/function.strtotime.php">PHP - strotime</a>
+ - <a target="_blank" href="https://www.goodday.work/developers/api-v2/events">GoodDay - Event Types</a>
+ - <a target="_blank" href="https://www.goodday.work/developers/api-v2/events">GoodDay - Custom Field Types</a>
 
 <br>
 
