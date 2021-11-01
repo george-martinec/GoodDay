@@ -13,6 +13,10 @@
 
 <div align="center">🔑 Create and insert Token in <b>GoodDay</b> class.</div>
 <div align="center">🧙‍♂️ You can Generate API Token in your Organization under <code>Settings > API</code></div>
+<br>
+
+<div align="center">Created with: <a href="https://github.com/Kong/unirest-php">Unirest for <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="
+  " width="42"/></a> </div>
 
 <br>
 
