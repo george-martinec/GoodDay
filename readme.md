@@ -529,7 +529,7 @@ exit();
 <br><br>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/George-Martinec"><b>George Martinec</b></a>
+  Made with ❤️ by <a href="https://github.com/George-Martinec"><b>George Buchtinec</b></a>
 </p>
 
 <br>
